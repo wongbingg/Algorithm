@@ -12,6 +12,7 @@
 		AF8F888C2D75BF4E00546897 /* 웰컴 키트.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8F888B2D75BF4E00546897 /* 웰컴 키트.swift */; };
 		AF8F888E2D77133400546897 /* FizzBuzz.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8F888D2D77133400546897 /* FizzBuzz.swift */; };
 		AF8F88902D785EC400546897 /* solved.ac.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8F888F2D785EC400546897 /* solved.ac.swift */; };
+		AF8F88922D79AF4400546897 /* 팰린드롬수.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8F88912D79AF4400546897 /* 팰린드롬수.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +34,7 @@
 		AF8F888B2D75BF4E00546897 /* 웰컴 키트.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "웰컴 키트.swift"; sourceTree = "<group>"; };
 		AF8F888D2D77133400546897 /* FizzBuzz.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FizzBuzz.swift; sourceTree = "<group>"; };
 		AF8F888F2D785EC400546897 /* solved.ac.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = solved.ac.swift; sourceTree = "<group>"; };
+		AF8F88912D79AF4400546897 /* 팰린드롬수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "팰린드롬수.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				AF8F888B2D75BF4E00546897 /* 웰컴 키트.swift */,
 				AF8F888D2D77133400546897 /* FizzBuzz.swift */,
 				AF8F888F2D785EC400546897 /* solved.ac.swift */,
+				AF8F88912D79AF4400546897 /* 팰린드롬수.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AF8F888A2D7415ED00546897 /* A+B-C.swift in Sources */,
+				AF8F88922D79AF4400546897 /* 팰린드롬수.swift in Sources */,
 				AF8F88902D785EC400546897 /* solved.ac.swift in Sources */,
 				AF8F888C2D75BF4E00546897 /* 웰컴 키트.swift in Sources */,
 				AF8F88812D7410C200546897 /* main.swift in Sources */,
