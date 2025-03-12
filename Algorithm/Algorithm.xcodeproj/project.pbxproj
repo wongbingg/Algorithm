@@ -15,6 +15,7 @@
 		AF8F88922D79AF4400546897 /* 팰린드롬수.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF8F88912D79AF4400546897 /* 팰린드롬수.swift */; };
 		AFF4061C2D7F0D8E00FF19FA /* 평균.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF4061B2D7F0D8E00FF19FA /* 평균.swift */; };
 		AFF406202D80526000FF19FA /* 이항 계수1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF4061F2D80526000FF19FA /* 이항 계수1.swift */; };
+		AFF406222D819D6800FF19FA /* 단어 정렬.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF406212D819D6700FF19FA /* 단어 정렬.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -39,6 +40,7 @@
 		AF8F88912D79AF4400546897 /* 팰린드롬수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "팰린드롬수.swift"; sourceTree = "<group>"; };
 		AFF4061B2D7F0D8E00FF19FA /* 평균.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "평균.swift"; sourceTree = "<group>"; };
 		AFF4061F2D80526000FF19FA /* 이항 계수1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "이항 계수1.swift"; sourceTree = "<group>"; };
+		AFF406212D819D6700FF19FA /* 단어 정렬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "단어 정렬.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				AF8F88912D79AF4400546897 /* 팰린드롬수.swift */,
 				AFF4061B2D7F0D8E00FF19FA /* 평균.swift */,
 				AFF4061F2D80526000FF19FA /* 이항 계수1.swift */,
+				AFF406212D819D6700FF19FA /* 단어 정렬.swift */,
 			);
 			path = Baekjoon;
 			sourceTree = "<group>";
@@ -156,6 +159,7 @@
 				AF8F888C2D75BF4E00546897 /* 웰컴 키트.swift in Sources */,
 				AFF406202D80526000FF19FA /* 이항 계수1.swift in Sources */,
 				AF8F88812D7410C200546897 /* main.swift in Sources */,
+				AFF406222D819D6800FF19FA /* 단어 정렬.swift in Sources */,
 				AF8F888E2D77133400546897 /* FizzBuzz.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
